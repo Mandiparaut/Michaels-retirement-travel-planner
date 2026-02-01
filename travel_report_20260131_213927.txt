@@ -1,0 +1,159 @@
+============================================================
+MICHAEL'S RETIREMENT TRAVEL PLANNER
+============================================================
+
+Enter your travel request below.
+Example: Plan a retirement trip to Toronto and Chicago.
+
+
+Planning trip...
+
+
+=== MICHAEL'S RETIREMENT TRAVEL REPORT ===
+
+Planning a retirement trip to New York and Miami sounds exciting! Here’s a suggested itinerary that includes key attractions, activities, and some tips for both cities.
+
+### New York City (4-5 Days)
+
+**Day 1: Arrival and Times Square**
+- Arrive in New York City.
+- Check into your hotel.
+- Explore Times Square in the evening. Enjoy the lights, shops, and street performances.
+
+**Day 2: Central Park and Museums**
+- Morning: Stroll through Central Park. Consider renting a bike or taking a guided tour.
+- Afternoon: Visit the Metropolitan Museum of Art or the American Museum of Natural History.
+- Evening: Dinner in the Upper West Side or a Broadway show.
+
+**Day 3: Iconic Landmarks**
+- Morning: Visit the Statue of Liberty and Ellis Island. Book tickets in advance.
+- Afternoon: Explore Wall Street and the 9/11 Memorial & Museum.
+- Evening: Walk across the Brooklyn Bridge and enjoy dinner in Brooklyn.
+
+**Day 4: Cultural Experiences**
+- Morning: Visit the Museum of Modern Art (MoMA) or the Guggenheim Museum.
+- Afternoon: Explore neighborhoods like SoHo, Greenwich Village, or Chinatown.
+- Evening: Enjoy a nice dinner at a rooftop restaurant with views of the skyline.
+
+**Day 5: Departure to Miami**
+- Last-minute shopping or sightseeing.
+- Fly to Miami.
+
+### Miami (4-5 Days)
+
+**Day 1: Arrival and South Beach**
+- Arrive in Miami.
+- Check into your hotel.
+- Spend the evening at South Beach. Enjoy the beach, restaurants, and nightlife.
+
+**Day 2: Art Deco and Little Havana**
+- Morning: Take a walking tour of the Art Deco Historic District.
+- Afternoon: Visit Little Havana for Cuban culture, food, and music.
+- Evening: Enjoy dinner at a local Cuban restaurant.
+
+**Day 3: Everglades National Park**
+- Take a day trip to Everglades National Park. Consider an airboat tour to see wildlife.
+- Return to Miami for a relaxing evening.
+
+**Day 4: Cultural Exploration**
+- Morning: Visit the Pérez Art Museum Miami (PAMM) or the Frost Museum of Science.
+- Afternoon: Explore Wynwood Walls for street art and galleries.
+- Evening: Dinner at a waterfront restaurant.
+
+**Day 5: Relaxation and Departure**
+- Spend the morning relaxing at the beach or pool.
+- Last-minute shopping or sightseeing.
+- Depart from Miami.
+
+### Tips:
+- **Transportation:** Consider using public transportation, taxis, or rideshare services in both cities.
+- **Accommodation:** Book hotels in advance, especially in popular areas.
+- **Weather:** Check the weather forecast for both cities and pack accordingly.
+- **Health & Safety:** Stay hydrated and take breaks, especially if you're doing a lot of walking.
+
+Would you like more specific recommendations for attractions, restaurants, or activities in either city?
+
+Generating detailed information...
+
+
+============================================================
+NEW YORK
+============================================================
+
+Location: New York, NY, USA
+Coordinates: 40.7127753, -74.0059728
+
+Weather:
+Temperature: -10.9 °C
+Condition: Clear sky
+Wind: 13.0 km/h
+Clothing: Warm jacket and long pants
+
+Air Quality:
+AQI: 77
+Category: Good air quality
+Health Advice: Moderate
+
+Nearby Attractions:
+
+TOURIST_ATTRACTION
+- Brooklyn Bridge (New York, NY 10038, USA)
+- Empire State Building (20 W 34th St., New York, NY 10001, USA)
+- Madison Square Garden (New York, NY 10001, USA)
+- Bryant Park (New York, NY 10018, USA)
+- The High Line (New York, NY 10011, USA)
+
+MUSEUM
+- Empire State Building (20 W 34th St., New York, NY 10001, USA)
+- 9/11 Memorial & Museum (180 Greenwich St, New York, NY 10007, USA)
+- Whitney Museum of American Art (99 Gansevoort St, New York, NY 10014, USA)
+- The Morgan Library & Museum (225 Madison Ave, New York, NY 10016, USA)
+- Museum of Ice Cream (558 Broadway, New York, NY 10012, USA)
+
+PARK
+- 9/11 Memorial & Museum (180 Greenwich St, New York, NY 10007, USA)
+- Bryant Park (New York, NY 10018, USA)
+- The High Line (New York, NY 10011, USA)
+- The Battery (New York, NY 10004, USA)
+- Washington Square Park (New York, NY 10012, USA)
+
+============================================================
+MIAMI
+============================================================
+
+Location: Miami, FL, USA
+Coordinates: 25.7616798, -80.1917902
+
+Weather:
+Temperature: 11.8 °C
+Condition: Mainly clear
+Wind: 24.3 km/h
+Clothing: Light jacket recommended
+
+Air Quality:
+AQI: 65
+Category: Good air quality
+Health Advice: Moderate
+
+Nearby Attractions:
+
+TOURIST_ATTRACTION
+- Bayside Marketplace (401 Biscayne Blvd, Miami, FL 33132, USA)
+- Wynwood Walls (2516 NW 2nd Ave, Miami, FL 33127, USA)
+- Vizcaya Museum & Gardens (3251 S Miami Ave, Miami, FL 33129, USA)
+- Bayfront Park (301 Biscayne Blvd, Miami, FL 33132, USA)
+- Phillip & Patricia Frost Museum of Science (1101 Biscayne Blvd, Miami, FL 33132, USA)
+
+MUSEUM
+- Wynwood Walls (2516 NW 2nd Ave, Miami, FL 33127, USA)
+- Vizcaya Museum & Gardens (3251 S Miami Ave, Miami, FL 33129, USA)
+- Phillip & Patricia Frost Museum of Science (1101 Biscayne Blvd, Miami, FL 33132, USA)
+- MUSEUM OF ICE CREAM (851 NE 1st Ave, Miami, FL 33132, USA)
+- Pérez Art Museum Miami (1103 Biscayne Blvd, Miami, FL 33132, USA)
+
+PARK
+- Wynwood Walls (2516 NW 2nd Ave, Miami, FL 33127, USA)
+- Bayfront Park (301 Biscayne Blvd, Miami, FL 33132, USA)
+- Jungle Island (1111 Parrot Jungle Trail, Miami, FL 33132, USA)
+- Miami Seaquarium (4400, Rickenbacker Cswy, Miami, FL 33149, USA)
+- Domino Park (1444 SW 8th St, Miami, FL 33135, USA)
